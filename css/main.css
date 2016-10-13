@@ -31,3 +31,27 @@ body {
 h1, h2 {
   font: bold;
 }
+
+.btn {
+  color: #0074d9;
+  text-align: center;
+}
+
+a:hover {
+  background-color: #0074d9;
+  color: #fff;
+}
+
+.banner {
+  background-color: #e2e2e2;
+}
+
+p{
+  text-align: left;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}

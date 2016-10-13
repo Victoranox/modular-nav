@@ -46,7 +46,7 @@ a:hover {
   background-color: #e2e2e2;
 }
 
-p{
+p {
   text-align: left;
   display: inline-block;
 }
@@ -54,4 +54,8 @@ p{
 a {
   text-decoration: none;
   color: #000;
+}
+
+nav li:last-child{
+  color: #fff;
 }
